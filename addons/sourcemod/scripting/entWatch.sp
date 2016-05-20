@@ -16,7 +16,7 @@
 #tryinclude <csgomorecolors>
 
 
-#define PLUGIN_VERSION "3.8.126"
+#define PLUGIN_VERSION "3.8.127"
 #undef REQUIRE_PLUGIN
 
 #pragma newdecls required
@@ -61,15 +61,15 @@ char g_sEntMsg[32][129];
 //----------------------------------------------------------------------------------------------------
 // Purpose: Color settings
 //----------------------------------------------------------------------------------------------------
-char color_tag[16]         = "E01B5D";
-char color_name[16]        = "EDEDED";
-char color_steamid[16]     = "B2B2B2";
-char color_use[16]         = "67ADDF";
-char color_pickup[16]      = "C9EF66";
-char color_drop[16]        = "E562BA";
-char color_disconnect[16]  = "F1B567";
-char color_death[16]       = "F1B567";
-char color_warning[16]     = "F16767";
+char color_tag[16]         = "{GREEN}";
+char color_name[16]        = "{GREEN}";
+char color_steamid[16]     = "{GREEN}";
+char color_use[16]         = "{GREEN}";
+char color_pickup[16]      = "{GREEN}";
+char color_drop[16]        = "{GREEN}";
+char color_disconnect[16]  = "{GREEN}";
+char color_death[16]       = "{GREEN}";
+char color_warning[16]     = "{GREEN}";
 
 //----------------------------------------------------------------------------------------------------
 // Purpose: Client settings
